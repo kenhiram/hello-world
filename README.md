@@ -1,2 +1,2 @@
 # hello-world
-sample repository
+Hi aliens,welcome to earth!
